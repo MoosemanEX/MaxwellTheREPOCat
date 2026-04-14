@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1549797422, guid: 8904cea9204fd4f409bb6f628de5596b, type: 3}
+  m_Name: MaxwellMod
+  m_EditorClassIdentifier: 
+  _name: MaxwellTheCat
+  _author: MoosemanEX
+  _version: 1.0.0
+  _description: Maxwell can be found around the facilities!
+  _websiteUrl: 
+  _dependencies:
+  - Zehs-REPOLib-2.0.1
+  _icon: {fileID: 21300000, guid: c390939ff95c64b45ae65a9309c781f3, type: 3}
+  _readme: {fileID: 4900000, guid: 050dd8a0612935846a5d7a2942af5de0, type: 3}

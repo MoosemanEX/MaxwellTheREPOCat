@@ -1,0 +1,16 @@
+D:\Coding Projects\RepoModPlugin\bin\Debug\netstandard2.1\MaxwellTheCat.deps.json
+D:\Coding Projects\RepoModPlugin\bin\Debug\netstandard2.1\MaxwellTheCat.dll
+D:\Coding Projects\RepoModPlugin\obj\Debug\netstandard2.1\MaxwellTheCat.csproj.AssemblyReference.cache
+D:\Coding Projects\RepoModPlugin\obj\Debug\netstandard2.1\MaxwellTheCat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Projects\RepoModPlugin\obj\Debug\netstandard2.1\MaxwellTheCat.AssemblyInfoInputs.cache
+D:\Coding Projects\RepoModPlugin\obj\Debug\netstandard2.1\MaxwellTheCat.AssemblyInfo.cs
+D:\Coding Projects\RepoModPlugin\obj\Debug\netstandard2.1\MaxwellTheCat.csproj.CoreCompileInputs.cache
+D:\Coding Projects\RepoModPlugin\obj\Debug\netstandard2.1\MaxwellTheCat.dll
+D:\CodingProjects\RepoModPlugin\bin\Debug\netstandard2.1\MaxwellTheCat.deps.json
+D:\CodingProjects\RepoModPlugin\bin\Debug\netstandard2.1\MaxwellTheCat.dll
+D:\CodingProjects\RepoModPlugin\obj\Debug\netstandard2.1\MaxwellTheCat.csproj.AssemblyReference.cache
+D:\CodingProjects\RepoModPlugin\obj\Debug\netstandard2.1\MaxwellTheCat.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodingProjects\RepoModPlugin\obj\Debug\netstandard2.1\MaxwellTheCat.AssemblyInfoInputs.cache
+D:\CodingProjects\RepoModPlugin\obj\Debug\netstandard2.1\MaxwellTheCat.AssemblyInfo.cs
+D:\CodingProjects\RepoModPlugin\obj\Debug\netstandard2.1\MaxwellTheCat.csproj.CoreCompileInputs.cache
+D:\CodingProjects\RepoModPlugin\obj\Debug\netstandard2.1\MaxwellTheCat.dll

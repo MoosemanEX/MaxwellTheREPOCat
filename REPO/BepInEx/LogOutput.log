@@ -1,0 +1,3 @@
+[Warning:  HarmonyX] AccessTools.TypeByName: Could not find type named Unity.Netcode.NetworkManager
+[Warning:  HarmonyX] AccessTools.Field: type is null
+[Warning:  HarmonyX] UnpatchAll has been called - This will remove ALL HARMONY PATCHES.
